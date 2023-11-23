@@ -1,5 +1,6 @@
-# Hi there 👋, I'm Marko!
+# Hi there 👋 
 
+I'm Marko.
 I'm a Data Scientist with experience in NLP and Computer Vision.
 
 ## 📫 My coordinates:
