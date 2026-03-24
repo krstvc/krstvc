@@ -6,7 +6,5 @@ Data Engineer, 5+ years of building pipelines and integrations so the right data
 
 ## 📫 Coordinates
 
-| | |
-|---|---|
-| 💼 | [LinkedIn](https://www.linkedin.com/in/markokrstovic/) |
-| ✉️ | [krstvcm@gmail.com](mailto:krstvcm@gmail.com) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markokrstovic/)
+[![Email](https://img.shields.io/badge/krstvcm@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krstvcm@gmail.com)
